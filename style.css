@@ -1,0 +1,65 @@
+#telefonszam
+{
+    width: 100%;
+}
+
+#telefon
+{
+    position:relative;
+    width: 173%;
+}
+
+#varos
+{
+    width: 400%;
+}
+
+#orszag
+{
+    width:100%;
+}
+
+#cim
+{
+    width: 144%;
+}
+
+#mentes
+{
+    width: 124%;
+    height: 3.5em;
+    background-color: rgb(92, 194, 92);
+    color: white;
+    border: 2px green solid;
+    margin-top: 1.5em;
+    font-size: 1em;
+}
+
+input, select
+{
+    height: 3em;
+    width: 20em;
+    border: 0.1em solid lightgray;
+}
+
+label
+{
+    font-size: larger;
+    font-family: arial;
+}
+
+caption
+{
+    text-align: left;
+    font-size: 1.5em;
+    font-family: arial;
+    margin-bottom: 0.5em;
+    width:121%;
+    border-bottom: 2px dotted gray;
+    padding-bottom: 0.5em;
+}
+
+table
+{
+    border-spacing: 0.5em;
+}
